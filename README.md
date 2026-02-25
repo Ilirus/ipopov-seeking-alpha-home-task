@@ -40,3 +40,8 @@ npm run dev
 - Conditional content for premium vs non-premium users
 - Shared card/skeleton/loader components
 - React Query hooks for API data fetching and caching
+
+## CI/CD and deployment
+
+- GitHub Actions is used for automated checks and deployment workflow.
+- The live site is available at: https://ilirus.github.io/ipopov-seeking-alpha-home-task/
